@@ -1,0 +1,280 @@
+.body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.main {
+    font-family:  'Raleway', sans-serif;
+    width: 100%;   
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1.5rem;
+
+}
+.navbar-items {
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+
+.navmenu {
+    text-decoration: none;
+    color: black;
+    margin: 2.0rem 3.0rem;
+    
+    
+}
+
+.navbar-logo img {
+    margin: 2.0rem 5.0rem;
+}
+
+.items {
+    
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.col-1 {
+    padding: 5.0rem;
+    width: 90%;
+    min-width: 400px;
+   
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    line-height: 25px;
+    width: 500px;
+}
+.col-2 img {
+    width: 90%;
+    min-width: 400px;
+}
+
+.button {
+    margin-top: 20px;
+    display: flex;
+}
+
+.input-1 {
+    padding: 0.5rem;
+    width: 300px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-radius: 0.3rem;
+}
+
+.button-1 {
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+    width: 150px;
+    background-color: hsl(224, 93%, 58%) ;
+    border: 1px solid transparent;
+    border-radius: 0.3rem;
+    color: white;
+}
+
+
+.section-2 {
+    
+    margin-top: 3.0rem;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5.0rem;
+}
+
+
+.how-it-works {
+    color: hsl(170, 45%, 43%);
+    text-decoration: none;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid hsl(170, 45%, 43%);
+}
+
+.text {
+    padding-top: 1.0rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+}
+
+.quote-note {
+    margin: 3.0rem;
+    width: 300px;
+    height: 200px;
+   border: 1px solid transparent;
+   background-color: white;
+   padding: 1.0rem;
+   line-height: 1.7rem;
+   border-radius: 0.5rem;
+   border: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+.ceo-profile {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.ceo-profile img {
+    width: 30px;
+    height: 30px;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+
+}
+
+.ceo-info{
+    margin-left: 1.5rem;
+    
+    
+}
+
+.name {
+    font-weight: 700;
+}
+
+.section-3 {
+    background-color: hsl(238, 22%, 44%);
+    color: white;
+    height: 250px;
+    padding-bottom: 8.0rem;
+}
+.col-3 {
+    margin-left: 5px;
+    width: 350px;
+    width: 90%;
+    min-width: 400px;
+}
+
+.input-2 {
+    width: 400px;
+    padding: 0.6rem;
+    border-radius: 2px;
+    border: 1px solid transparent;
+}
+
+.button-2 {
+    width: 150px;
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    padding: 0.5rem;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.col-4 {
+   padding-right: 6.0rem;
+   width: 90%;
+    min-width: 400px;
+}
+
+.button-2 {
+    margin-top: 1.0rem;
+    
+}
+
+.section-4 {
+    background-color: hsl(243, 87%, 12%) ;
+    color: white;
+    width: 100%;
+  
+    margin-left: 0 auto;
+    
+}
+
+.container-4 {
+    padding: 5.0rem;
+}
+
+.footer {
+    display: flex;
+    
+    margin-top: 2.0rem;
+    width: 90%;
+    min-width: 400px;
+}
+
+.logo img {
+    color: white;
+} 
+
+.contact {
+    width: 400px;
+}
+.contact img {
+    margin-right: 0.5rem;
+   
+}
+
+.about-1 {
+    width: 90%;
+    min-width: 300px;
+   
+}
+
+.about-2 {
+    width: 90%;
+    min-width: 300px;
+}
+
+.terms {
+    color: white;
+    text-decoration: none;
+}
+
+.icons {
+    display: flex;
+}
+
+.rounded-icons {
+   width: 30px;
+   height: 30px;
+   border: 1px solid white;
+   display: inline-flex;
+   color: white;
+   justify-content: center;
+   align-items: center;
+   margin: 0.5rem;
+   border-radius: 50%;
+   text-decoration: none;
+}
+
+@media screen and (max-width: 560px) {
+    
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
